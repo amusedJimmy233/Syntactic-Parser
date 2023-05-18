@@ -1,0 +1,3 @@
+/Users/jimmy233/Desktop/c++/Compilation Principle/Syntactic Parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jimmy233/Desktop/c++/Compilation Principle/Syntactic Parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jimmy233/Desktop/c++/Compilation Principle/Syntactic Parser/cmake-build-debug/CMakeFiles/Syntactic_Parser.dir
